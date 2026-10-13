@@ -1,6 +1,6 @@
 ## Tablero de Seguimiento de Tareas
 
-### Tablero Kanban (Estado Actual)
+### Tablero
 
 |  Por Hacer  |  En Progreso  |  Completado  |
 | :--- | :--- | :--- |
