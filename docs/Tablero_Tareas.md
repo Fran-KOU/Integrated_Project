@@ -6,7 +6,7 @@
 | :--- | :--- | :--- |
 | • Pruebas estadísticas de latencia (Iván)<br>• Despliegue final e integración | • Diseño de structs y lógica en Go (David)<br>• Topología OpenWrt, VLSM y VLANs (Francis)<br>• Servicio de autenticación en FastAPI (Iván) | • Definición del contexto y problema<br>• Asignación de roles y contrato de equipo<br>• Grabación del video de presentación |
 
-### Lista de Verificación por Parciales (Checklist)
+### Lista de Verificación por Parciales
 
 **Parcial 1 (Semanas 1 - 5)**
 - [x] Definición del contexto y planificación del proyecto
