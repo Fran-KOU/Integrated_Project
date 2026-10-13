@@ -1,8 +1,12 @@
 # Integrated_Project
 
-Título del proyecto: Proyecto Integrador
+Título del proyecto: 
 
-Descripción: Una empresa dedicada al desarrollo de soluciones tecnológicas ha abierto una segunda sede operativa. La organización requiere una plataforma empresarial distribuida que permita mantener la comunicación entre ambas sedes, desplegar servicios institucionales, autenticar usuarios, proteger la información y evaluar el desempeño e impacto de la solución mediante evidencia cuantitativa. El equipo diseñará e implementará una solución integral compuesta por una aplicación empresarial cliente-servidor desarrollada en Go, una infraestructura de comunicaciones distribuida, un servicio de autenticación desarrollado con FastAPI, un proceso de investigación cuantitativa y un análisis socio-tecnológico. Los componentes deberán funcionar de manera integrada sobre la infraestructura de red implementada. 
+Proyecto Integrador
+
+Descripción: 
+
+Una empresa dedicada al desarrollo de soluciones tecnológicas ha abierto una segunda sede operativa. La organización requiere una plataforma empresarial distribuida que permita mantener la comunicación entre ambas sedes, desplegar servicios institucionales, autenticar usuarios, proteger la información y evaluar el desempeño e impacto de la solución mediante evidencia cuantitativa. El equipo diseñará e implementará una solución integral compuesta por una aplicación empresarial cliente-servidor desarrollada en Go, una infraestructura de comunicaciones distribuida, un servicio de autenticación desarrollado con FastAPI, un proceso de investigación cuantitativa y un análisis socio-tecnológico. Los componentes deberán funcionar de manera integrada sobre la infraestructura de red implementada. 
 
 Integrantes y roles: 
 
@@ -12,8 +16,4 @@ Integrantes y roles:
 | **Francis Acuña** | Administrador de Infraestructura y Redes | Diseño e implementación de la topología distribuida con OpenWrt. Configuración de direccionamiento VLSM, VLANs, OSPF, RSTP, enlaces troncales y segmentación segura. |
 | **Iván Gualotuña** | Especialista en Seguridad y Analista de Datos | Desarrollo del servicio de autenticación en FastAPI (registro, inicio de sesión y protección de contraseñas). Diseño del instrumento de recolección de datos, análisis estadístico y redacción del impacto socio-tecnológico. |
 
-Estructura del repositorio: 
-
-Video explicativo:
-
-Licencia: 
+Video explicativo: 
