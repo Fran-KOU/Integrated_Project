@@ -16,4 +16,4 @@ Integrantes y roles:
 | **Francis Acuña** | Administrador de Infraestructura y Redes | Diseño e implementación de la topología distribuida con OpenWrt. Configuración de direccionamiento VLSM, VLANs, OSPF, RSTP, enlaces troncales y segmentación segura. |
 | **Iván Gualotuña** | Especialista en Seguridad y Analista de Datos | Desarrollo del servicio de autenticación en FastAPI (registro, inicio de sesión y protección de contraseñas). Diseño del instrumento de recolección de datos, análisis estadístico y redacción del impacto socio-tecnológico. |
 
-Video explicativo: /workspaces/Integrated_Project/docs/Video_Explicativo.mp4
+Video explicativo:
