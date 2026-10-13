@@ -7,29 +7,6 @@ Descripción: Una empresa dedicada al desarrollo de soluciones tecnológicas ha 
 Integrantes y roles: 
 
 Estructura del repositorio: 
-| Integrante
-
- | Rol en el Proyecto
-
- | Responsabilidades Principales
-
- |
-| --- | --- | --- |
-| **David Torres**<br> | Desarrollador Backend (Go)
-
- | Desarrollo de la aplicación empresarial cliente-servidor en Go, aplicando modularidad y manejo de errores. Diseño de las estructuras (structs) y la lógica de la bandeja de entrada, lectura y envío de mensajes.
-
- |
-| **Francis Acuña**<br> | Administrador de Infraestructura y Redes
-
- | Diseño e implementación de la topología distribuida con OpenWrt. Configuración de direccionamiento VLSM, VLANs, OSPF, RSTP, enlaces troncales y segmentación segura.
-
- |
-| **Iván Gualotuña**<br> | Especialista en Seguridad y Analista de Datos
-
- | Desarrollo del servicio de autenticación en FastAPI (registro, inicio de sesión y protección de contraseñas). Diseño del instrumento de recolección de datos, análisis estadístico y redacción del impacto socio-tecnológico.
-
- |
 
 Video explicativo:
 
