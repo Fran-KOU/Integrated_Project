@@ -17,3 +17,5 @@ Integrantes y roles:
 | **Iván Gualotuña** | Especialista en Seguridad y Analista de Datos | Desarrollo del servicio de autenticación en FastAPI (registro, inicio de sesión y protección de contraseñas). Diseño del instrumento de recolección de datos, análisis estadístico y redacción del impacto socio-tecnológico. |
 
 Video explicativo: https://drive.google.com/file/d/1oqAu37qmD9a415f5AAB4sz7X7shcez8W/view?usp=sharing
+
+Fase 2 POO: https://drive.google.com/file/d/1-_pmbC2YQiooXiY0X4d7qHap8voY-VUE/view?usp=sharing
